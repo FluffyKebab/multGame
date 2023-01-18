@@ -1,0 +1,5 @@
+client/node_modules/
+clinet/.vscode
+client/.cache
+client/dist
+.vscode/
